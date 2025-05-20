@@ -2,7 +2,6 @@
 using Collections.sort( ArrayListObj)*/
 
 
-package prog1;
 import java.util.ArrayList;
 import java.util.Collections;
 
