@@ -12,8 +12,6 @@ Program 8
 
 8c_Employeeappended2 ->(https://github.com/Manoharibr114/Advance_Java/blob/main/8_JDBCCoffe/8c/employeeappend2.png)
 
-8d_DisplayEmployee1_copy->(https://github.com/Manoharibr114/Advance_Java/blob/main/8_JDBCCoffe/8d/displayemployee1%20-%20Copy.png)
-
 8d_DisplayEmployee1->(https://github.com/Manoharibr114/Advance_Java/blob/main/8_JDBCCoffe/8d/displayemployee1.png)
 
 8d_DisplayEmployee2->(https://github.com/Manoharibr114/Advance_Java/blob/main/8_JDBCCoffe/8d/displayemployee2.png)
