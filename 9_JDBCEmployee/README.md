@@ -4,8 +4,6 @@
 
 9a_JDBC_deletecoffee1->(https://github.com/Manoharibr114/Advance_Java/blob/main/9_JDBCEmployee/9a/deletecoffee2.png)
 
-9a_JDBC_deletecoffee2->(https://github.com/Manoharibr114/Advance_Java/blob/main/9_JDBCEmployee/9a/deletecoffee2.png)
-
 9b_jDBC_coffeed->(https://github.com/Manoharibr114/Advance_Java/blob/main/9_JDBCEmployee/9b/coffeed.png)
 
 9c_JDBC_appendemp ->(https://github.com/Manoharibr114/Advance_Java/blob/main/9_JDBCEmployee/9c/appendemp.png)
