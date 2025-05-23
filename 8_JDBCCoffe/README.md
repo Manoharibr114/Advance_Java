@@ -10,7 +10,7 @@ Program 8
 
 8c_Employeeappended ->(https://github.com/Manoharibr114/Advance_Java/blob/main/8_JDBCCoffe/8c/pgm_8c.jpg)
 
-8c_Employeeappended2 ->(https://github.com/Manoharibr114/Advance_Java/blob/main/8_JDBCCoffe/8c/employeeappend2.png)
+8c_Employeeappended2 ->(https://github.com/Manoharibr114/Advance_Java/blob/main/8_JDBCCoffe/8c/8c%202.png)
 
 8d_DisplayEmployee1->(https://github.com/Manoharibr114/Advance_Java/blob/main/8_JDBCCoffe/8d/displayemployee1.png)
 
