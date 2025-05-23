@@ -4,9 +4,9 @@ Program 8
 
  8a_JDBCCoffee program_output->(https://github.com/Manoharibr114/Advance_Java/blob/main/8_JDBCCoffe/8a/8a.png)
 
- 8b_JDBCUpdate1 output ->( https://github.com/Manoharibr114/Advance_Java/blob/main/8_JDBCCoffe/8b/updatecoffee1.png)
+ 8b_JDBCUpdate1 output ->( https://github.com/Manoharibr114/Advance_Java/blob/main/8_JDBCCoffe/8b/8b_Updatecoffe1.png)
 
-8b_JDBCUpdate2 output->  (https://github.com/Manoharibr114/Advance_Java/blob/main/8_JDBCCoffe/8b/updatecoffee2.png)
+8b_JDBCUpdate2 output->  (https://github.com/Manoharibr114/Advance_Java/blob/main/8_JDBCCoffe/8b/8b_Updatecoffe2.png)
 
 8c_Employeeappended ->(https://github.com/Manoharibr114/Advance_Java/blob/main/8_JDBCCoffe/8c/pgm_8c.jpg)
 
